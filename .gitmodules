@@ -1,0 +1,3 @@
+[submodule "openai-assistant"]
+	path = openai-assistant
+	url = https://github.com/daCapricorn/openai-assistant-js.git

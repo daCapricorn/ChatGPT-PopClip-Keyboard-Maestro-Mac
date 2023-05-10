@@ -30,14 +30,14 @@ While PopClip does support ChatGPT extension, in my opinion it lacks sufficient 
 7. Set **OpenAI API key** in **ChatGPT Macros** -> **Start Call API**.![](https://gateway.pinata.cloud/ipfs/QmWNwh2cksLGq24bVV6iGg3dF8bLhPbEB39AmPjWTfJ4HG)
 8. Enable **ChatGPT Macros** and **ChatGPT Menu Macros**.![](https://gateway.pinata.cloud/ipfs/QmdL5DxsPnrgDJZszUu4ykMaAytLERW1G3tBeRi3jeNuwT)
 9. Install custom PopClip extension via script
-```yaml
-# popclip
-name: OpenAI
-Icon: iconify:ri:openai-fill
-javascript: |
-  popclip.openUrl('kmtrigger://macro=9FA60E19-EBBF-4A6C-A071-AAD33DC015FB')
-```
-![](https://gateway.pinata.cloud/ipfs/QmYmdiwm5am9SLdJoaTcvMc2nxHBrjvrvWcQ3rGp9YwWnp)
+    ```yaml
+    # popclip
+    name: OpenAI
+    Icon: iconify:ri:openai-fill
+    javascript: |
+      popclip.openUrl('kmtrigger://macro=9FA60E19-EBBF-4A6C-A071-AAD33DC015FB')
+    ```
+    ![](https://gateway.pinata.cloud/ipfs/QmYmdiwm5am9SLdJoaTcvMc2nxHBrjvrvWcQ3rGp9YwWnp)
 10. Done. Try it :)
 
 

@@ -35,9 +35,10 @@ While PopClip does support ChatGPT extension, in my opinion it lacks sufficient 
     name: OpenAI
     Icon: iconify:ri:openai-fill
     javascript: |
+      popclip.pressKey('command C');
       popclip.openUrl('kmtrigger://macro=9FA60E19-EBBF-4A6C-A071-AAD33DC015FB')
     ```
-    ![](https://gateway.pinata.cloud/ipfs/QmYmdiwm5am9SLdJoaTcvMc2nxHBrjvrvWcQ3rGp9YwWnp)
+    ![](https://gateway.pinata.cloud/ipfs/QmaFEsxGFbnFHRoQ6aCymVLKKy4yFC7Zuq6x2wWC6gkBFA)
 10. Done. Try it :)
 
 

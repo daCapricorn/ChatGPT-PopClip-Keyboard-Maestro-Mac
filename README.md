@@ -2,7 +2,7 @@
 While PopClip does support ChatGPT extension, in my opinion it lacks sufficient power. Therefore, I aim to further customize its functionalities to better suit my needs. As a result, I have attempted to integrate all three together.
 
 ### Let me show it to you
-![demo gif****](https://gateway.pinata.cloud/ipfs/QmVjS9BrhnX6V4cNt8VsQX6az2EyWzAJ4zPJnxqgu84KsR)
+![demo gif****](https://gateway.pinata.cloud/ipfs/QmVBTGodZ237SHHBba4yiRq6WeVvi37aGhEXL1NuRMyB46)
 
 ## Prerequisite
 
@@ -41,5 +41,8 @@ While PopClip does support ChatGPT extension, in my opinion it lacks sufficient 
     ![](https://gateway.pinata.cloud/ipfs/QmaFEsxGFbnFHRoQ6aCymVLKKy4yFC7Zuq6x2wWC6gkBFA)
 10. Done. Try it :)
 
+## 💝 Support
 
+- **Bitcoin**: 1Dy2inaXtHczPvu5HnHinpdHtoWkLYMKQ6
+- **Ethereum**: 0xB2d511611EaD5bC5B3a101DC9E7658CfBcf57a58
 

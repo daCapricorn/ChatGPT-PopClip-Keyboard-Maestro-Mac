@@ -4,7 +4,7 @@ While PopClip does support ChatGPT extension, in my opinion it lacks sufficient 
 ### Let me show it to you
 ![demo gif****](https://gateway.pinata.cloud/ipfs/QmVBTGodZ237SHHBba4yiRq6WeVvi37aGhEXL1NuRMyB46)
 
-## Prerequisite
+## Prerequisites
 
 - **[OpenAI API key](https://platform.openai.com/account/api-keys)**
 - **[PopClip](https://pilotmoon.com/popclip/)**

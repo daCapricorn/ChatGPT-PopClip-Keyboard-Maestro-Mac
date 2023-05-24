@@ -18,6 +18,7 @@ While PopClip does support ChatGPT extension, in my opinion it lacks sufficient 
 - Polish
 - Summarize
 - AMA (ask me anything)
+- Extract keywords
 
 ## Get Started
 1. `git clone https://github.com/daCapricorn/ChatGPT-PopClip-Keyboard-Maestro-Mac.git ~/.km`
